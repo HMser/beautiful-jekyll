@@ -88,7 +88,7 @@ share-links-active:
 # excerpt_length: 0
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
@@ -104,15 +104,15 @@ post_search: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#000000"
-navbar-text-col: "#404040"
+navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
 page-col: "#000000"
-text-col: "#404040"
+text-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#000000"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#ffffff"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
