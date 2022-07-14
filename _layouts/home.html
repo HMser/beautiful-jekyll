@@ -5,7 +5,7 @@ layout: page
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
-
+{% include ads.html %}
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
